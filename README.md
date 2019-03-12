@@ -12,3 +12,5 @@
  3rd example: Lets play with colors! Just add the color to the transition-property.
  --transition-property: width, background-color;-- 
  CSS gradually changes the color through the color spectrum as well!
+ 
+ 4th example: We used the Transition-Timing-Function with the values ease, ease-in, ease-in-out, linear
